@@ -19,16 +19,13 @@ to withdraw money,deposit.
 
 
 #### SEQUENCE DIAGRAM
-
 ![image](https://github.com/varshasharon/LAB-1-ATM/assets/98278161/1acd58c4-94c1-41b5-9615-6beaafc43f40)
 
 #### COMMUNICATION DIAGRAM
-
 ![image](https://github.com/varshasharon/LAB-1-ATM/assets/98278161/8e0ce418-f618-46ee-8679-d2650e22023f)
 
 #### PACKAGE DIAGRAM
 ![image](https://github.com/varshasharon/LAB-1-ATM/assets/98278161/c9d5d7a1-2d4b-4cd5-9d81-45fcfc973ddf)
-
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
